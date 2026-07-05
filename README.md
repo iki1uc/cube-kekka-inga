@@ -85,3 +85,28 @@ Er bleibt als Respo bestehen, auch wenn die Thematik wechselt.
 🟦 7. Lizenz
 Dieses Modul darf frei genutzt werden.
 Bitte nennen Sie den ursprünglichen Autor.
+# cube-kekka-inga — Minimal Cube
+
+cube-kekka-inga ist ein technischer Ergebnis-Cube.
+Er trägt nur Zustandsmarken und Übergabeinformationen.
+
+## TECH-MARKER
+《QI 0 → 1 EVO》
+Technischer Übergang von QI-Stufe 0 zu EVO-Stufe 1.
+
+## FUNKTION
+- neutraler Ergebnis-Cube
+- keine Logik
+- keine Engine
+- keine Interpretation
+- reine Übergabe
+
+## STATUS
+bestehend, minimal, stabil
+
+## NUTZUNG
+Lesbar, referenzierbar, nicht ausführbar.
+
+## LIZENZ
+Freie Nutzung. Bitte ursprünglichen Autor nennen.
+
